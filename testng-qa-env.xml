@@ -8,7 +8,7 @@
     </groups>
     <test verbose="2" preserve-order="true" name="APIAutomationFrameworkATB8X">
         <classes>
-            <class name="com.theTestingacademy.test.Integration.CURD.TestIntegrationFlowPractice"/>
+            <class name="com.theTestingacademy.test.Integration.CURD.TestIntegrationFlow"/>
         </classes>
     </test>
 </suite>

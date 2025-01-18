@@ -72,7 +72,7 @@ public class TestIntegrationFlow extends BaseTest {
 
 
     @Test(groups = "qa", priority = 4)
-    @Owner("Promode")
+    @Owner("Nishi")
     @Description("TC#INT1 - Step 4. Delete the Booking by ID")
     public void testDeleteBookingById(ITestContext iTestContext) {
         String token = (String) iTestContext.getAttribute("token");
