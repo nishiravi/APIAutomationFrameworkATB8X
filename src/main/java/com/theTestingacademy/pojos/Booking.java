@@ -1,4 +1,4 @@
-package com.theTestingacademy.POJOS;
+package com.theTestingacademy.pojos;
 
 
 import com.google.gson.annotations.Expose;
