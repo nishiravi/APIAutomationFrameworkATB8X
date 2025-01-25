@@ -74,3 +74,4 @@ To run tests in parallel, add the parallel attribute to your testng.xml file:
 
 ![image](http://192.168.1.153:64873/index.html#suites/5638de12b2515268ac235c49fc75cf1c/ab3f5007a427fc99/)
 
+http://192.168.1.153:64873/index.html#suites/5638de12b2515268ac235c49fc75cf1c/ab3f5007a427fc99/
