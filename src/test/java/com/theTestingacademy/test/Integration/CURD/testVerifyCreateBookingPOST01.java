@@ -6,7 +6,6 @@ import com.theTestingacademy.pojos.BookingResponse;
 import io.qameta.allure.Description;
 import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
-
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
 public class testVerifyCreateBookingPOST01 extends BaseTest {
